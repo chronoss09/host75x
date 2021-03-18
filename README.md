@@ -1,5 +1,5 @@
 # 7.50 Sleirsgoevy exploit
-A new exploit PS4 by Sleirsgoevy for 7.50 users  
-No MIRA or HEN for now, it's for testing alone : https://chronoss09.github.io/sleirs750  
-Send your payload on port 9020 after exploit loaded ;)  
-NETCAT GUI by Modded Warfare : [NETCAT GUI](https://www.mediafire.com/file/zts1sb5vybeylez/NetCat_GUI_by_Modded_Warfare.zip/file)
+A new exploit PS4 by Sleirsgoevy for 7.50/7.51/7.55 users  
+Host here : https://chronoss09.github.io/sleirs750  
+NETCAT GUI by Modded Warfare : [NETCAT GUI](https://www.mediafire.com/file/zts1sb5vybeylez/NetCat_GUI_by_Modded_Warfare.zip/file)  
+Send your payload on port 9020 after exploit loaded with NETCAT GUI
